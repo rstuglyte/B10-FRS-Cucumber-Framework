@@ -11,4 +11,4 @@
 
 
 # git rm -r --cached .
-# this command is going to remove evereything that is cached to be upadted in your github repository
+#this command is going to remove everything that is cached to be updated in your GitHub remote repository
